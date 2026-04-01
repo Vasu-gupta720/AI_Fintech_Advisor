@@ -1,0 +1,122 @@
+Transaction statement
+7206064026, vasugupta4026@gmail.com
+Transactionstatementperiod Sent Received
+01February2026-28February2026 ₹9,090.33 ₹4,508
+Date&time Transactiondetails Amount
+01Feb,2026 PaidtoPOOJAGOGIA ₹40
+10:33PM UPITransactionID:603271437843
+PaidbyStateBankofIndia1878
+02Feb,2026 ReceivedfromChetanMadaan ₹30
+10:35PM UPITransactionID:603349360114
+PaidtoStateBankofIndia1878
+03Feb,2026 PaidtoChetanMadaan ₹30
+11:37PM UPITransactionID:603427623329
+PaidbyStateBankofIndia1878
+04Feb,2026 PaidtoShubhamGarg ₹3,100
+04:57PM UPITransactionID:603569928704
+PaidbyStateBankofIndia1878
+04Feb,2026 PaidtoJYOTI GUPTA ₹3,000
+07:17PM UPITransactionID:603584878949
+PaidbyStateBankofIndia1878
+04Feb,2026 ReceivedfromJYOTIGUPTAWOSHDEEPAKGUPTA ₹1,500
+09:45PM UPITransactionID:698701748605
+PaidtoStateBankofIndia1878
+04Feb,2026 PaidtoChetanMadaan ₹30
+10:29PM UPITransactionID:603501511576
+PaidbyStateBankofIndia1878
+05Feb,2026 PaidtoChetanMadaan ₹85.33
+09:25PM UPITransactionID:603671549915
+PaidbyStateBankofIndia1878
+Note:ThisstatementreflectspaymentsmadebyyouontheGooglePayapp.Selftransferpaymentsarenotincludedinthetotalmoneypaidand
+received.AnypaymentstransactionsandactivitydeletedfromyourGoogleAccountwillnotshowupinthisstatement.
+Page1of4
+Transaction statement
+7206064026, vasugupta4026@gmail.com
+Date&time Transactiondetails Amount
+09Feb,2026 ReceivedfromChetanMadaan ₹20
+06:53PM UPITransactionID:640694559109
+PaidtoStateBankofIndia1878
+09Feb,2026 PaidtoShubhamGarg ₹66
+06:55PM UPITransactionID:640665850762
+PaidbyStateBankofIndia1878
+10Feb,2026 PaidtoShubhamGarg ₹58
+07:22PM UPITransactionID:604146475555
+PaidbyStateBankofIndia1878
+10Feb,2026 ReceivedfromChetanMadaan ₹30
+11:34PM UPITransactionID:604117994998
+PaidtoStateBankofIndia1878
+11Feb,2026 ReceivedfromPandaPie ₹30
+03:56PM UPITransactionID:640821874093
+PaidtoStateBankofIndia1878
+11Feb,2026 PaidtoChetanMadaan ₹51
+07:38PM UPITransactionID:640875896202
+PaidbyStateBankofIndia1878
+12Feb,2026 ReceivedfromChetanMadaan ₹145
+10:25PM UPITransactionID:604307434264
+PaidtoStateBankofIndia1878
+13Feb,2026 PaidtoShubhamGarg ₹91
+04:40PM UPITransactionID:641088582635
+PaidbyStateBankofIndia1878
+15Feb,2026 ReceivedfromChetanMadaan ₹80
+06:18PM UPITransactionID:604645159936
+PaidtoStateBankofIndia1878
+18Feb,2026 ReceivedfromJYOTIGUPTAWOSHDEEPAKGUPTA ₹500
+12:01AM UPITransactionID:699486247169
+PaidtoStateBankofIndia1878
+Note:ThisstatementreflectspaymentsmadebyyouontheGooglePayapp.Selftransferpaymentsarenotincludedinthetotalmoneypaidand
+received.AnypaymentstransactionsandactivitydeletedfromyourGoogleAccountwillnotshowupinthisstatement.
+Page2of4
+Transaction statement
+7206064026, vasugupta4026@gmail.com
+Date&time Transactiondetails Amount
+18Feb,2026 ReceivedfromChetanMadaan ₹15
+12:21PM UPITransactionID:604947095053
+PaidtoStateBankofIndia1878
+18Feb,2026 PaidtoShubhamGarg ₹129
+12:24PM UPITransactionID:604976684168
+PaidbyStateBankofIndia1878
+18Feb,2026 PaidtoJYOTI GUPTA ₹1,500
+07:34PM UPITransactionID:641562929584
+PaidbyStateBankofIndia1878
+21Feb,2026 PaidtoDMRC ₹21
+07:28AM UPITransactionID:641811772008
+PaidbyStateBankofIndia1878
+22Feb,2026 ReceivedfromJYOTI GUPTA ₹900
+09:43AM UPITransactionID:699726071639
+PaidtoStateBankofIndia1878
+23Feb,2026 PaidtoDMRC ₹32
+09:12AM UPITransactionID:605470280612
+PaidbyStateBankofIndia1878
+23Feb,2026 PaidtoChetanMadaan ₹220
+07:28PM UPITransactionID:605493567430
+PaidbyStateBankofIndia1878
+24Feb,2026 ReceivedfromChetanMadaan ₹118
+09:23PM UPITransactionID:605571958455
+PaidtoStateBankofIndia1878
+25Feb,2026 ReceivedfromChetanMadaan ₹30
+10:59PM UPITransactionID:605632627739
+PaidtoStateBankofIndia1878
+26Feb,2026 PaidtoKHYATICONSUL ₹5
+12:29AM UPITransactionID:605734262980
+PaidbyStateBankofIndia1878
+Note:ThisstatementreflectspaymentsmadebyyouontheGooglePayapp.Selftransferpaymentsarenotincludedinthetotalmoneypaidand
+received.AnypaymentstransactionsandactivitydeletedfromyourGoogleAccountwillnotshowupinthisstatement.
+Page3of4
+Transaction statement
+7206064026, vasugupta4026@gmail.com
+Date&time Transactiondetails Amount
+26Feb,2026 ReceivedfromVARUN SINGHAL ₹110
+04:28PM UPITransactionID:605749640289
+PaidtoStateBankofIndia1878
+26Feb,2026 PaidtoDMRC ₹32
+05:44PM UPITransactionID:605767188037
+PaidbyStateBankofIndia1878
+28Feb,2026 ReceivedfromJYOTI GUPTA ₹1,000
+01:55PM UPITransactionID:398082191252
+PaidtoStateBankofIndia1878
+28Feb,2026 PaidtoSANDEEP ₹600
+06:31PM UPITransactionID:605975310718
+PaidbyStateBankofIndia1878
+Note:ThisstatementreflectspaymentsmadebyyouontheGooglePayapp.Selftransferpaymentsarenotincludedinthetotalmoneypaidand
+received.AnypaymentstransactionsandactivitydeletedfromyourGoogleAccountwillnotshowupinthisstatement.
+Page4of4

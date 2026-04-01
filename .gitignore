@@ -1,0 +1,20 @@
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local environment files (contains secrets)
+.env
+*.env
+Backend/.env
+Backend/.venv/
+
+# Node dependencies/build output
+node_modules/
+dist/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
